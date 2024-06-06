@@ -1,0 +1,1 @@
+export const url = `https://api.thecatapi.com/v1/breeds?&api_key=${process.env.REACT_APP_API_KEY}`;
